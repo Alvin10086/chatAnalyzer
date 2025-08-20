@@ -1,0 +1,5 @@
+Synthetic drug-only WhatsApp detector (GA-optimized)
+Dataset rows: 7000
+Validation AUC: 0.9946
+Best Val F1:    0.9949 at threshold 0.440
+Precision/Recall: 1.0000 / 0.9898
